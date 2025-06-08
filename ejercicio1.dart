@@ -1,3 +1,5 @@
+/*1. Cree un programa el cual imprima una lista con los primeros 15 números de
+la sucesión de Fibonacci.*/
 void main() {
   int a = 0;
   int b = 1;
