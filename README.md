@@ -1,6 +1,4 @@
 # LPTarea1
 
-Integrantes del grupo: 
-Josue Leonel Pineda Chinchilla - 20152006123
-Andy Villatoro
- 
+## Andy Fabian Portillo Villatoro 20192001349
+## Jouse Leonel Pineda Chinchilla 20152006123
